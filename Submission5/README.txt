@@ -8,7 +8,7 @@ Paper title:
 Early Diabetes Prediction using Machine learning techniques with XAI
 
 Paper presentation (anyone can view without login):
-
+https://github.com/Marufakamallabonno/CSE713/blob/main/Submission5/Spring_2023___Early_Diabetes_Prediction_using_Machine_learning_technniques_with_XAI-7.pdf 
 
 
 Group Number:
