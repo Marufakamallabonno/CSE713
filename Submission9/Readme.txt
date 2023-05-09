@@ -44,6 +44,7 @@ https://bucse713spring2023.slack.com/archives/C04LQRNM17A/p1682343878011799
 https://bucse713spring2023.slack.com/archives/C04LQRNM17A/p1682316830822969
 https://bucse713spring2023.slack.com/archives/C04LQRNM17A/p1682488164876139?thread_ts=1682404973.930419&cid=C04LQRNM17A
 https://bucse713spring2023.slack.com/archives/C04N56WUZ0B/p1682942938341129?thread_ts=1682869934.503499&cid=C04N56WUZ0B
+- Overall tried to be active in Team09 group and others as well.
 
 Submitter:
 22366033 Marufa Kamal
