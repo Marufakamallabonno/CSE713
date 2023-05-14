@@ -28,10 +28,11 @@ Comparison of Machine Learning Models for Early Prediction of Diabetes with LIME
 Submitted the Paper on R10-HTC 26/04/2023
 
 did Something else:
-Analyzed the CLEF2023 Task 3 Dataset
+-Analyzed the CLEF2023 Task 3 Dataset
 https://github.com/Marufakamallabonno/CLEF_2023_EDA_Task3/blob/main/README.md
 https://colab.research.google.com/drive/1lbpwb5MHOz6wE63Lu70GQ-xJNiIYTDLO?usp=sharing
-
+- Registered for ITEE and also attended a few classes but could not attend exam as I was out of town
+- Completed few vidos from https://researcheracademy.elsevier.com using BRACU open athens account(certificated added in the folder)
 Completed Carpentries Courses 
 https://carpentries-incubator.github.io/SDC-BIDS-IntroMRI
 https://carpentries-incubator.github.io/machine-learning-novice-sklearn
